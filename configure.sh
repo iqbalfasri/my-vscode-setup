@@ -1,4 +1,6 @@
 #!/bin/sh
 
-# Rencananya mau buat script buat running otomatis
-# biar ngga usah copy paste
+# ONLY FOR MY COMPUTER, YOU CAN CHANGE TARGET DIR AND USER, BASE ON YOUR OPERATING SYSTEM
+
+
+cat > my-setting.json > /Users/iqbalfasri/Library/ApplicationSupport/Code/User/settings.json
